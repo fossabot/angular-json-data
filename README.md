@@ -1,4 +1,5 @@
 # Introduction [![npm](https://img.shields.io/npm/v/angular-json-data.svg?maxAge=2592000)](https://www.npmjs.com/package/angular-json-data)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FKrusen%2Fangular-json-data.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FKrusen%2Fangular-json-data?ref=badge_shield)
 This is a directive for easy loading of JSON directly from the HTML.
 With this directive you can include initial data in the HTML sent to the client instead of lazy-loading 
 the data by doing one or more requests after the page has loaded to a webservice or such.
@@ -89,3 +90,7 @@ If you do not want this behavior you can add a `keep-element` attribute.
     <!-- ... -->
 </json-data>
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FKrusen%2Fangular-json-data.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FKrusen%2Fangular-json-data?ref=badge_large)
